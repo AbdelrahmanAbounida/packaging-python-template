@@ -23,8 +23,15 @@ update the existing workflows as required
 
 ### 4- Pypi setup
 
-Go to pypi and make project trused
-https://pypi.org/manage/account/publishing
+- Go to pypi and make project trused
+  https://pypi.org/manage/account/publishing
+
+- first tag
+
+```sh
+git tag v1.0.0
+git push origin v1.0.0
+```
 
 ### 4- Others
 
